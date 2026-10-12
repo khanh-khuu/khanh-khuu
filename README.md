@@ -1,5 +1,3 @@
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Colgate_logo_red.svg/799px-Colgate_logo_red.svg.png)
-
 ### Hi there 👋
 
 Here are some ideas to get you started:
